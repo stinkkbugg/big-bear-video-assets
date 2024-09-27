@@ -21,7 +21,7 @@ services:
     # Environment variables
     environment:
       TZ: "UTC" # Time Zone; Update this to your time zone
-      WEBPASSWORD: "password" # Admin password for web UI; Change this to your desired admin password
+      WEBPASSWORD: "Tins31Lakyn24" # Admin password for web UI; Change this to your desired admin password
 
     # Mount volumes for persistent data
     volumes:
